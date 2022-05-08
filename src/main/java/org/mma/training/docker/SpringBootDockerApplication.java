@@ -11,7 +11,7 @@ public class SpringBootDockerApplication {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Spring Boot Jenkins and Docker Hub Integration";
+		return "Assalaam u alaikum! Doing testing of Spring Boot Jenkins and Docker Hub Integration";
 	}
 
 	public static void main(String[] args) {
